@@ -3,3 +3,4 @@ REncana konten WPU
 - Java script
 *ES6\ nambah baru
 - PHP farme workds
+fundamental data dasar
