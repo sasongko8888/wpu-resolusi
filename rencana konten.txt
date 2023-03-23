@@ -5,5 +5,7 @@ REncana konten WPU
 - PHP farme workds
 _ karavel
 fundamental data dasar
-- ANgular
-- REact
+
+belajar mengenai laravel
+- pyton
+- react
