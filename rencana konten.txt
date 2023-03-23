@@ -9,3 +9,4 @@ fundamental data dasar
 belajar mengenai laravel
 - pyton
 - react
+Angular
