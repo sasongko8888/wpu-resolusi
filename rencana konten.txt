@@ -3,4 +3,7 @@ REncana konten WPU
 - Java script
 *ES6\ nambah baru
 - PHP farme workds
+_ karavel
 fundamental data dasar
+- ANgular
+- REact
