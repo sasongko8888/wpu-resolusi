@@ -4,3 +4,5 @@ REncana konten WPU
 *ES6\ nambah baru
 - PHP farme workds
 fundamental data dasar
+belajar mengenai laravel
+- pyton
